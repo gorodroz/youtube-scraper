@@ -23,7 +23,7 @@ The program uses the Pytubefix library.
 ---
 
 ## ❒ Planned
-✧ Normal and correct navigation on the iTag
+✧ ~~Normal and correct navigation on the iTag~~
 
 ✧ Мake a version on a compact and lightweight GUI
 
